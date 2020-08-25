@@ -4,12 +4,11 @@
 	<title></title>
 </head>
 
-
+<link rel="stylesheet" href="../../assets/node_modules/bootstrap/dist/css/bootstrap.css">
 <script src="../../assets/node_modules/jquery/dist/jquery.min.js" ></script>
-<link rel="stylesheet" href="../../assets/node_modules/bootstrap/dist/css/bootstrap.min.css">
-<script src="../../assets/node_modules/bootstrap/dist/js/bootstrap.min.js" ></script>
-
-<script src='https://kit.fontawesome.com/a076d05399.js'></script>
+<script src="../../assets/node_modules/popper.js/dist/umd/popper.js"></script>
+<script src="../../assets/node_modules/bootstrap/dist/js/bootstrap.js" ></script>
+<script src="../../assets/node_modules/@fortawesome/fontawesome-free/js/all.min.js" data-auto-replace-svg="nest"></script>
 
 <style type="text/css">
 body{
