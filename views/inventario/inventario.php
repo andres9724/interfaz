@@ -1,7 +1,11 @@
 <html>
 
 <head>
+<<<<<<< Updated upstream
 	<title>Interfaz inicial</title>
+=======
+	<title>dofus</title>
+>>>>>>> Stashed changes
 </head>
 
 <h1>nombre</h1>
@@ -201,7 +205,71 @@ body{
                   
                     </div>
                   </div>
-                </div>   
+                </div> 
+                <br>
+                <div class="col-md-12" style="font-size:12px; padding:0;top:9">
+                  <div class="row">
+                    <div class="col-md-8"  style="padding-inline-start:0;text-align: initial">
+                        puntos de vida (PV)          
+                    </div>
+                    <div class="col-md-4 " style="text-align: end">
+                          %puntos%
+                    </div>
+                    <div class="col-md-8" style="padding:0;text-align: initial">
+                        puntos de accion (PA)          
+                    </div>
+                    <div class="col-md-4" style="text-align: end">
+                        %puntos%
+                    </div>
+                    <div class="col-md-8" style="padding:0;text-align: initial">
+                        puntos de movimiento (PM)          
+                    </div>
+                    <div class="col-md-4"style="text-align: end">
+                        %puntos%
+                    </div>
+                  </div>
+                </div>
+                <br>
+                 <div class="col-md-12" style="font-size:12px; padding:0;top:9">
+                  <div class="row">
+                    <div class="col-md-8"  style="padding-inline-start:0;text-align: initial">
+                        <i class='fas fa-fire' style='font-size:12px;color:#ff0081'> </i>Vitalidad        
+                    </div>
+                    <div class="col-md-4 " style="text-align: end">
+                          %puntos%
+                    </div>
+                    <div class="col-md-8" style="padding:0;text-align: initial">
+                        <i class='fas fa-fire' style='font-size:12px;color:#1d1232'> </i>Sabiduria          
+                    </div>
+                    <div class="col-md-4" style="text-align: end">
+                        %puntos%
+                    </div>
+                    <div class="col-md-8" style="padding:0;text-align: initial">
+                        <i class='fas fa-fire' style='font-size:12px;color:#a35117'> </i>fuerza       
+                    </div>
+                    <div class="col-md-4"style="text-align: end">
+                        %puntos%
+                    </div>
+                    <div class="col-md-8"  style="padding-inline-start:0;text-align: initial">
+                        <i class='fas fa-fire' style='font-size:12px;color:red'> </i>inteligencia         
+                    </div>
+                    <div class="col-md-4 " style="text-align: end">
+                          %puntos%
+                    </div>
+                    <div class="col-md-8" style="padding:0;text-align: initial">
+                        <i class='fas fa-fire' style='font-size:12px;color:blue'> </i>suerte         
+                    </div>
+                    <div class="col-md-4" style="text-align: end">
+                        %puntos%
+                    </div>
+                    <div class="col-md-8" style="padding:0;text-align: initial">
+                        <i class='fas fa-fire' style='font-size:12px;color:green'> </i>agilidad         
+                    </div>
+                    <div class="col-md-4"style="text-align: end">
+                        %puntos%
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>  
             <div class="collapse" id="hola">
