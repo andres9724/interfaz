@@ -1,9 +1,10 @@
 <html>
 
 <head>
-	<title></title>
+	<title>Interfaz inicial</title>
 </head>
 
+<h1>nombre</h1>
 <link rel="stylesheet" href="../../assets/node_modules/bootstrap/dist/css/bootstrap.css">
 <script src="../../assets/node_modules/jquery/dist/jquery.min.js" ></script>
 <script src="../../assets/node_modules/popper.js/dist/umd/popper.js"></script>
