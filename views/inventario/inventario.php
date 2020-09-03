@@ -1,11 +1,7 @@
 <html>
 
 <head>
-<<<<<<< Updated upstream
-	<title>Interfaz inicial</title>
-=======
 	<title>dofus</title>
->>>>>>> Stashed changes
 </head>
 
 <h1>nombre</h1>
@@ -281,11 +277,182 @@ body{
           <div class="col-md-8 border border-secondary rounded-bottom text-center text-uppercase ">
             inventario
             <div class="container">
-              <div class=" borde row">
+              <div class="  row">
                 <div class="col-md-8 border border-secondary rounded-bottom text-center text-uppercase ">
                   caracteristicas
+                  <br>
+                  <div class="row " style="margin-left: -5px;
+                    margin-right: -5">
+                    <div class="col-md-2  " style="
+                        padding-left: 1px;
+                        padding-right: 1px">
+                      <div class="col-md-12 border border-secondary " style="
+                        padding-left: 0px;
+                        padding-right: 0px;"><img src="../../assets/images/descarga.png" style="
+                       
+                        width: 68.703px;
+                        height: 47px"></div>
+                      <div class="col-md-12 border border-secondary " style="
+                        padding-left: 0px;
+                        padding-right: 0px;"><img src="../../assets/images/descarga.png" style="
+                       
+                        width: 68.703px;
+                        height: 47px"></div>
+                     <div class="col-md-12 border border-secondary " style="
+                        padding-left: 0px;
+                        padding-right: 0px;"><img src="../../assets/images/descarga.png" style="
+                       
+                        width: 68.703px;
+                        height: 47px"></div>
+                      <div class="col-md-12 border border-secondary " style="
+                        padding-left: 0px;
+                        padding-right: 0px;margin-top: 69px;
+                        "><img src="../../assets/images/descarga.png" style="
+                       
+                        width: 68.703px;
+                        height: 47px"></div>
+
+
+
+
+                    </div>
+                    <div class="col-md-2 " style="padding:0px">
+                      <div class="col-md-12 border border-secondary " style="
+                        padding-left: 0px;
+                        padding-right: 0px;  
+                        margin-top: 216px;
+                        "><img src="../../assets/images/descarga.png" style="
+                       
+                        width: 68.703px;
+                        height: 47px">
+                      </div>
+
+
+
+                    </div>
+                    <div class="col-md-4 "><img src="../../assets/images/feca.png" style="
+                         
+                          width: 250px;
+                          height: 250px;"></div>
+                      <div class="col-md-2  " style="padding:0px" >
+                         <div class="col-md-12 border border-secondary " style="
+                          padding-left: 0px;
+                          padding-right: 0px;  
+                          margin-top: 216px;
+                          "><img src="../../assets/images/descarga.png" style="
+                         
+                          width: 68.703px;
+                          height: 47px">
+                        </div>
+                      </div>
+                      <div class="col-md-2 "style="
+                        padding-left: 0px;
+                        padding-right: 0px;
+                        ">
+                        <div class="col-md-12 border border-secondary " style="
+                          padding-left: 0px;
+                          padding-right: 0px;"><img src="../../assets/images/descarga.png" style="
+                         
+                          width: 68.703px;
+                          height: 47px">
+                        </div>
+                        <div class="col-md-12 border border-secondary " style="
+                          padding-left: 0px;
+                          padding-right: 0px;"><img src="../../assets/images/descarga.png" style="
+                         
+                          width: 68.703px;
+                          height: 47px">
+                        </div>
+                        <div class="col-md-12 border border-secondary " style="
+                          padding-left: 0px;
+                          padding-right: 0px;"><img src="../../assets/images/descarga.png" style="
+                         
+                          width: 68.703px;
+                          height: 47px">
+                        </div>
+                        <div class="col-md-12 border border-secondary " style="
+                          padding-left: 0px;
+                          padding-right: 0px;"><img src="../../assets/images/descarga.png" style="
+                         
+                          width: 68.703px;
+                          height: 47px">
+                        </div>
+                        <div class="col-md-12 border border-secondary " style="
+                          padding-left: 0px;
+                          padding-right: 0px;  
+                          margin-top: 20px;
+                          "><img src="../../assets/images/descarga.png" style="
+                         
+                          width: 68.703px;
+                          height: 47px">
+                        </div>
+                      </div>
+
+                  </div>
+                  <div class="col-md-12 ">
+                    <div class="row">
+                     <div class="col-md-2 border border-secondary " style="
+                        padding-left: 0px;
+                        padding-right: 0px;  
+                        margin-top: 20px;
+                        "><img src="../../assets/images/descarga.png" style="
+                       
+                        width: 68.703px;
+                        height: 47px">
+                      </div>
+                      <div class="col-md-2 border border-secondary " style="
+                        padding-left: 0px;
+                        padding-right: 0px;  
+                        margin-top: 20px;
+                        "><img src="../../assets/images/descarga.png" style="
+                       
+                        width: 68.703px;
+                        height: 47px">
+                      </div>
+                      <div class="col-md-2 border border-secondary " style="
+                        padding-left: 0px;
+                        padding-right: 0px;  
+                        margin-top: 20px;
+                        "><img src="../../assets/images/descarga.png" style="
+                       
+                        width: 68.703px;
+                        height: 47px">
+                      </div>
+                      <div class="col-md-2 border border-secondary " style="
+                        padding-left: 0px;
+                        padding-right: 0px;  
+                        margin-top: 20px;
+                        "><img src="../../assets/images/descarga.png" style="
+                       
+                        width: 68.703px;
+                        height: 47px">
+                      </div>
+                      <div class="col-md-2 border border-secondary " style="
+                        padding-left: 0px;
+                        padding-right: 0px;  
+                        margin-top: 20px;
+                        "><img src="../../assets/images/descarga.png" style="
+                       
+                        width: 68.703px;
+                        height: 47px">
+                      </div>
+                      <div class="col-md-2 border border-secondary " style="
+                        padding-left: 0px;
+                        padding-right: 0px;  
+                        margin-top: 20px;
+                        "><img src="../../assets/images/descarga.png" style="
+                       
+                        width: 68.703px;
+                        height: 47px">
+                      </div>
+
+
+                    </div>
+                  </div>
+                 
                 </div>
-                <div class="col-md-4 border border-secondary rounded-bottom text-center text-uppercase">
+
+                <div class="col-md-4 border border-secondary rounded-bottom text-center text-uppercase" style="padding:3px">
                   <div class="container">
                     <div class=" borde row">
                       <div class="col-md-2   " style="padding-left:0px; padding-right:0px">
@@ -317,7 +484,114 @@ body{
                           ...
                         </div><button  class="fas fa-cog" style="font-size:100%; color:orange " type="submit" ></button>
                       </div>
-                            
+                          <div class="col-md-12 border border-secondary rounded-bottom text-center text-uppercase" style="padding:0px;">
+                            <div class="table-responsive-sm">
+                              <table class="table; overflow-y: hidden">
+                                  <tr>
+                                    
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+
+                                  </tr>
+                                   <tr>
+                                    
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+
+                                  </tr>
+                                   <tr>
+                                    
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+
+                                  </tr>
+                                   <tr>
+                                    
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+
+                                  </tr>
+                                   <tr>
+                                    
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+
+                                  </tr>
+                                   <tr>
+                                    
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+
+                                  </tr>
+                                   <tr>
+                                    
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+
+                                  </tr>
+                                   <tr>
+                                    
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+
+                                  </tr>
+                                   <tr>
+                                    
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+
+                                  </tr>
+                                   <tr>
+                                    
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+                                    <td><img src="../../assets/images/descarga.png" style="width:35px;height:35px;border: 1px solid; color: black;"></td>
+
+                                  </tr>
+
+                              </table>
+                            </div>
+                          
+                          </div>   
                     </div>
                   </div>
                 </div>
