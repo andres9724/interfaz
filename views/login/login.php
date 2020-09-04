@@ -63,24 +63,17 @@ border-color: black;
                 <div class="col-12 ">
                     <img src="../../assets/images/user.png" style=" margin-top: -100px ;width: 150px;">
                 </div>
-                <form class="col-12"  method="post">
-                    
-                    <input type="text"  placeholder="Nombre de usuario" id="nombre" name="nombre" class="form-control" />
-                   
-                    
-                    <input type="password"  placeholder="Contrasena" id="pass" name="pass"class="form-control" style="margin-top:5"/>
-                    <button type="submit" style="margin-top:10px" id="login" name="login"  class="btn btn-success " value="login" >ingresar</button>
-                    
-                    <span id="resultado"></span>
+                <form class="col-12" action="#" method="post" name="form_login " id="form_login">
+                    <input type="text"  placeholder="Nombre de usuario" id="nombre" name="nombre" class="form-control" /> 
+                    <input type="password"  placeholder="Contrasena" id="pass" name="pass" class="form-control" style="margin-top:5"/>
+                    <button  style="margin-top:10px" id="login" name="login"  class="btn btn-success " value="login" >ingresar</button>
                 </form>
-                
-
-
             </div>
         </div>
     </div>
 </body>
 </html>
+<script src="login.js"></script>
 <script type="text/javascript">
 /*
     $(document).ready(function  () {
