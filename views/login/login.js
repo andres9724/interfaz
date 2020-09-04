@@ -36,10 +36,25 @@ $(function(){
         submitHandler: function (form) {
             alert("dlslsdkdskl");
 
-            
+            $.ajax({
+                type:'POST',
+                url: "cambiar_estado_registro.php",
+                dataType: "html",
+                data: {
+                    iddoc:doc,
+                    tipo:"1",
+                },
+                success:function (data){
+                    console.log(data);
+                    alert(data);
+                }
+            });
+    
+        });
            
 
             return false;
+            //form.submit();
         }
     });
 });
